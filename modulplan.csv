@@ -1,0 +1,36 @@
+Semester;Modulbezeichnung;Kurscode;Note;Status;Credits;Prüfungsdatum
+1. Semester;Einführung in die Programmierung mit Python;DLBDSIPWP01_D;0.0;open;5;10.02.2025
+1. Semester;Medizin für Nichtmediziner:innen I;DLGMOE01-01;2,7;closed;5;14.09.2023
+1. Semester;Einführung in das wissenschaftliche Arbeiten für IT und Technik;DLBWIRITT01;0.0;closed;5;10.02.2025
+1. Semester;Pflichtwahlbereich A;Pflichtwahlbereich A;0.0;closed;5;10.02.2025
+1. Semester;Objektorientierte und funktionale Programmierung mit Python;DLBDSOOFPP01_D;0.0;open;5;10.02.2025
+1. Semester;E-Health;DLGEHT01-01;2,7;closed;5;01.01.1900
+2. Semester;Einführung in die Informatik;DLBCSICS01_D;3,7;closed;5;10.02.2025
+2. Semester;Medizinisches Datenmanagement und Dokumentation;DLBMINMDMD01;0.0;open;5;10.02.2025
+2. Semester;Betriebssysteme, Rechnernetze und verteilte Systeme;DLBIBRVS01;0.0;open;5;10.02.2025
+2. Semester;Einführung in Datenschutz und IT-Sicherheit;DLBISIC01;0.0;open;5;10.02.2025
+2. Semester;Pflichtwahlbereich B;Pflichtwahlbereich B;0.0;open;5;10.02.2025
+2. Semester;Projekt: Medizinisches Datenmanagement und Dokumentation;DLBMINPMDMD01;0.0;open;5;10.02.2025
+3. Semester;Objektorientierte Programmierung mit C++;DLBMINOOPC01;0.0;open;5;10.02.2025
+3. Semester;Grundlagen des Softwareengineering;DLBMINGSE01;0.0;open;5;10.02.2025
+3. Semester;Grundlagen der Mathematik;DLBWINGM01;0.0;open;5;10.02.2025
+3. Semester;Künstliche Intelligenz im Medizinwesen;DLBMINKIMW01;0.0;open;5;10.02.2025
+3. Semester;Statistik;BSTA01-02;0.0;open;5;10.02.2025
+3. Semester;Projekt: Allgemeine Programmierung mit C/C++;DLBIPAPCC01;0.0;open;5;10.02.2025
+4. Semester;Grundlagen der Angewandten Medizininformatik;DLBMINAMI01;0.0;open;5;10.02.2025
+4. Semester;Medizintechnische Normen: Bedeutung und Anwendung;DLBMETWNQM01;0.0;open;5;10.02.2025
+4. Semester;Datenmodellierung und Datenbanksysteme;IDBS01;0.0;open;5;10.02.2025
+4. Semester;Seminar: Digitale Transformation und Ethik im Gesundheitswesen;DLBDHDTE01;0.0;open;5;10.02.2025
+4. Semester;Projekt: GUI-Programmierung mit QT;DLBMINPGPQT01;0.0;open;5;10.02.2025
+5. Semester;Bildverarbeitung in der Medizin;DLBMINBVM01;0.0;open;5;10.02.2025
+5. Semester;Projekt: Bildverarbeitung in der Medizin;DLBMINPBVM01;0.0;open;5;10.02.2025
+5. Semester;WAHLPFLICHTMODUL A;WAHLPFLICHTMODUL A - 1;0.0;open;5;10.02.2025
+5. Semester;WAHLPFLICHTMODUL A;WAHLPFLICHTMODUL A - 2;0.0;open;5;10.02.2025
+5. Semester;WAHLPFLICHTMODUL B;WAHLPFLICHTMODUL B - 1;0.0;open;5;10.02.2025
+5. Semester;WAHLPFLICHTMODUL B;WAHLPFLICHTMODUL B - 2;0.0;open;5;10.02.2025
+6. Semester;Projekt: Data-Mart-Erstellung in SQL;DLBDSPBDM01_D;0.0;open;5;10.02.2025
+6. Semester;Pflichtwahlbereich C;Pflichtwahlbereich C;0.0;open;5;10.02.2025
+6. Semester;WAHLPFLICHTMODUL C;WAHLPFLICHTMODUL C - 1;0.0;open;5;10.02.2025
+6. Semester;WAHLPFLICHTMODUL C;WAHLPFLICHTMODUL C - 2;0.0;open;5;10.02.2025
+6. Semester;Bachelorarbeit;BBAK01;0.0;open;5;10.02.2025
+6. Semester;Bachelorarbeit;BBAK02;0.0;open;5;10.02.2025
